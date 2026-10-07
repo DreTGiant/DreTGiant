@@ -1,6 +1,6 @@
-## Hey there 👋
+##👋 Hey, I'm André
 
-## About Me
+## Inference & Performance Engineer
 
 Self-taught software engineer with some professional experience —
 and a permanent habit of learning things by building them. I like taking
