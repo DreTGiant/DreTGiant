@@ -1,4 +1,4 @@
-## 👋 Hey, I'm André
+## André
 
 ## Inference & Performance Engineer
 
