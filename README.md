@@ -2,9 +2,7 @@
 
 ## Inference & Performance Engineer
 
-I work on ML inference, CUDA kernels, and distributed systems, with a focus on performance.
-Self-taught software engineer with some professional experience —
-and a permanent habit of learning things by building them. I like taking
+I work on ML inference, CUDA kernels, and distributed systems, with a focus on performance. A software engineer with some professional experience, and a permanent habit of learning things by building them. I like taking
 systems apart, measuring them, and putting them back together faster.
 
 **What I'm working with right now:**
