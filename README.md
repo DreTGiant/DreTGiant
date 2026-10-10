@@ -22,9 +22,9 @@ Currently looking for a role where this stack does the most work —
 inference/performance engineering, infrastructure, or backend systems
 where measurement beats opinions
 
-## Environment 
+<!-- ## Environment 
 
-## Stack
+## Stack -->
 
 <!--
 **DreTGiant/DreTGiant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
